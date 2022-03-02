@@ -115,6 +115,7 @@ function renderButtons() {
  }
  else {
    document.querySelector('.btn.btn-crust').className=("btn btn-crust")
+   
  }
 }
 
